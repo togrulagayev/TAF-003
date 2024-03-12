@@ -3,9 +3,9 @@ void main() {
   String name2 = 'John Doe';
   print(name.toLowerCase());
 
-  // int a = 30;
-  // double b = a.toDouble();
-  // print(b);
+  int a = 30;
+  double b = a.toDouble();
+  print(b);
 
   // print('-' * 30);
   // double c = 55.5;
