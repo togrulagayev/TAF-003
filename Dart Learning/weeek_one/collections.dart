@@ -39,6 +39,7 @@ void main() {
   // print(studentList.length);
 
   List<int> numberList = List.filled(10, 9);
+
   // List.empty(growable: true);  //! bos list yaradir.
   // numberList.add(1);
 
