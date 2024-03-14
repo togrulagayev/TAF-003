@@ -1,6 +1,6 @@
 void main() {
   List numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 1, 2, 3, 4, 5];
-  // print(numbers);
+  print(numbers);
   // print(numbers.toSet());
   Set<int> numbers1 = {1, 2, 3, 7};
   // print(numbers1);
@@ -8,7 +8,7 @@ void main() {
   // print(numbers2);
   Set numbers3 = numbers2.union(numbers1);
 
-  // print(numbers3.toList()[0]);
+  print(numbers3.toList()[0]);
 
   // print(numbers1.difference(numbers2));
   // print(numbers2.difference(numbers1));

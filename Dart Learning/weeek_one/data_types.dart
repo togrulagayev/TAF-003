@@ -12,7 +12,7 @@ void main() {
 // !    data type   variable name        Assignment operator            value
 // !     String        name                       =                     'ALI';
   String name = 'Ali';
-  // print(name);
+  print(name);
   name = '15344347646732';
   // print(name);
 
@@ -20,22 +20,26 @@ void main() {
   // * 1- int - tam ededler
   int a = 20;
   a = 30;
+  print(a);
 
   // * 2- double - kesr ededler
   double b = 30.6;
   b = 40;
-  // print(b);
+  print(b);
 
   // * 3- num - int ve ya double
   num num1 = 15;
   num num2 = 50.9;
+  print(num1 + num2);
 
   // ! Boolean
   bool isStudent = true;
+  print(isStudent);
 
   // ! var
 
   var brand = 'Apple';
+  print(brand);
   brand = '';
 
   // ! dynamic
@@ -50,4 +54,5 @@ void main() {
   DateTime date = DateTime(1945, 3, 11);
   print(date);
   DateTime now = DateTime.now();
+  print(now);
 }

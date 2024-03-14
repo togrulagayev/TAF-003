@@ -21,7 +21,7 @@ void main() {
   ];
   // studentList.add('Ali'); //! tek element
 
-  // studentList.addAll(user); //! bir nece element
+  studentList.addAll(user); //! bir nece element
   // print(studentList);
   // print(studentList.length);
 

@@ -1,6 +1,6 @@
 void main() {
   String name = 'JOHN DOE';
-  String name2 = 'John Doe';
+  // String name2 = 'John Doe';
   print(name.toLowerCase());
 
   int a = 30;
