@@ -9,5 +9,5 @@ void main() {
   var name = stdin.readLineSync();
   stdout.write('Your age:\t');
   var age = int.parse(stdin.readLineSync().toString());
-  // print('Hello $name, you are $age years old');
+  print('Hello $name, you are $age years old');
 }
