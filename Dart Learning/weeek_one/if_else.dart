@@ -3,10 +3,10 @@ void main() {
 
   int a = 100;
   int b = 30;
-  // int c = 10;
-  // b += a += c;
-  // print(a);
-  // print(b);
+  int c = 10;
+  b += a += c;
+  print(a);
+  print(b);
 
   // if (a > b) {
   //   print(a);
@@ -16,7 +16,7 @@ void main() {
 
   // * şərt ? nəticə 1 : nəticə 2
 
-  bool isStudent = false;
+  // bool isStudent = false;
 
   // isStudent ? print('telebedir') : print('telebe deyil');
 
