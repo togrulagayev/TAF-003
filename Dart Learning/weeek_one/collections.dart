@@ -1,3 +1,5 @@
+String number = 'otuz';
+
 void main() {
   List<String> studentList = [
     'Vuqar',
