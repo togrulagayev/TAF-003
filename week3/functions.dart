@@ -8,18 +8,16 @@ void main() {
   // var word = stdin.readLineSync().toString();
   // reverseFun('salam');
 
-  int num1 = 30;
-  int num2 = 20;
-
-  print(num1 + num2);
-  print(90 + 38);
-
-  sum(num1, num2);
-  sum(90, 38);
+  int x = 5;
+  int y = 4;
+  x++;
+  print(x);
+  sum(x, ++y);
 }
 
 sum(int a, int b) {
   print(a + b);
+  print(b);
 }
 
 reverseFun(String param) {
