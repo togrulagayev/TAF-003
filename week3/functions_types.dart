@@ -2,9 +2,9 @@ void main() {
   var age2 = 60;
   printName();
   String surname = printLastName();
-  // print(surname);
+  print(surname);
   bool adult = isAdult(age2);
-  print(isAdult(age2));
+  print(adult);
   printAge(age2);
 }
 
