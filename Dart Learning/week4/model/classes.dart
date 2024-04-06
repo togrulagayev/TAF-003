@@ -1,18 +1,3 @@
-void main() {
-  // Person person1 = Person('John', 30, 'Black', 5.6, true);
-  Person person2 = Person(
-    name: 'Jane',
-    age: 25,
-    skinColor: 'White',
-    height: 5.2,
-    isMarried: false,
-  );
-
-  // Person person1 = Person();
-
-  // print('${person1.name} is ${person1.age} years old, ${person1.isMarried}');
-}
-
 class Person {
   String name;
   int age;
