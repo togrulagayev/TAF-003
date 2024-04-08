@@ -37,10 +37,10 @@ class Chair {
 
 void main() {
   Employee employee = Employee("John", 30, "Math", 50000.0);
-  // employee.display();
+  employee.display();
 
-  Employee employee2 = Employee.displayConstructor(name: "Jane", age: 25);
+  // Employee employee2 = Employee.displayConstructor(name: "Jane", age: 25);
 
   Chair chair = Chair("Chair1", "Red");
-  // chair.display();
+  chair.display();
 }
