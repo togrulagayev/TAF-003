@@ -24,6 +24,7 @@ class Person {
 
 main() {
   Person person1 = Person(name: 'John', age: 30, gender: Gender.male);
+  print(person1.name);
 
   var day = Weekdays.sunday;
   print(day.name);
