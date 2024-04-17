@@ -9,5 +9,11 @@ void main() {
   person1.age = 40;
   person1.changePhoneNumber = "2000";
 
+  ClassName className = ClassName();
+  print(className.name);
   print(person1.phoneNumber);
+}
+
+class ClassName {
+  String name = "John";
 }
