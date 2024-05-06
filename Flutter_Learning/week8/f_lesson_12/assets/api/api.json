@@ -1,0 +1,55 @@
+{
+    "bmw": [
+        {
+            "model": "X5",
+            "year": 2014,
+            "price": 90000
+        },
+        {
+            "model": "X6",
+            "year": 2015,
+            "price": 100000
+        },
+        {
+            "model": "X7",
+            "year": 2016,
+            "price": 110000
+        }
+    ],
+    "mercedes": [
+        {
+            "model": "GLK",
+            "year": 2012,
+            "price": 80000
+        },
+        {
+            "model": "E200",
+            "year": 2013,
+            "price": 70000
+        }
+    ],
+    "audi": [
+        {
+            "model": "A6",
+            "year": 2011,
+            "price": 60000
+        },
+        {
+            "model": "A7",
+            "year": 2012,
+            "price": 70000
+        }
+    ],
+    "porsche": [
+        {
+            "model": "Cayenne",
+            "year": 2013,
+            "price": 110000
+        },
+        {
+            "model": "Panamera",
+            "year": 2014,
+            "price": 120000
+        }
+    ]
+}
