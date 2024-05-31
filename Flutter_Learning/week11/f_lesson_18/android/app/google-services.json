@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182609886666",
+    "project_id": "taf-003-firebase-auth",
+    "storage_bucket": "taf-003-firebase-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182609886666:android:2ec3a3af5949ae7ac52333",
+        "android_client_info": {
+          "package_name": "com.example.f_lesson_18"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDNGp0XMQQg6EY8sEsEEONTi30kZJJpS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
